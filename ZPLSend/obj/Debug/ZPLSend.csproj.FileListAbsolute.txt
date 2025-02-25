@@ -1,0 +1,14 @@
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\bin\Debug\ZPLSend.exe.config
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\bin\Debug\ZPLSend.exe
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\bin\Debug\ZPLSend.pdb
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.csproj.AssemblyReference.cache
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.Form1.resources
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.Properties.Resources.resources
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.csproj.GenerateResource.cache
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.csproj.CoreCompileInputs.cache
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.exe
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.pdb
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\bin\Debug\ZPLSend.exe.manifest
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\bin\Debug\ZPLSend.application
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.exe.manifest
+C:\AhNe\OTHER\Proje NH\ZPLSend\V3\ZPLSend\obj\Debug\ZPLSend.application
